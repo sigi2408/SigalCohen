@@ -7,4 +7,6 @@ In this project, I explored a dataset to gain a better understanding of its stru
 Project 2: Stroke Prediction - EDA and Modeling
 In this project, I combined EDA with machine learning to develop a predictive model based on a given dataset. I then used various algorithms to train and test the model, evaluating its performance using the ideal metrix.
 
+It won't be long untill I'll have more projects to show and learn from =].
+
 Thank you for taking the time to review my portfolio! Please feel free to reach out if you have any questions or feedback.
