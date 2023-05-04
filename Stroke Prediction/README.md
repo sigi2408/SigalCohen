@@ -1,3 +1,5 @@
+# Stroke Prediction
+
 In this project, we aimed to predict whether a patient is likely to have a stroke based on various factors such as age, gender, hypertension, heart disease, smoking status, and more.
 
 The project consists of two main parts:
